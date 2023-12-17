@@ -1,0 +1,12 @@
+C:\Users\T-Gamer\Source\Repos\guilhermes14\DSAEM-at\Assessment\Assessment.Application\bin\Debug\net6.0\Assessment.Application.deps.json
+C:\Users\T-Gamer\Source\Repos\guilhermes14\DSAEM-at\Assessment\Assessment.Application\bin\Debug\net6.0\Assessment.Application.dll
+C:\Users\T-Gamer\Source\Repos\guilhermes14\DSAEM-at\Assessment\Assessment.Application\bin\Debug\net6.0\Assessment.Application.pdb
+C:\Users\T-Gamer\Source\Repos\guilhermes14\DSAEM-at\Assessment\Assessment.Application\obj\Debug\net6.0\Assessment.Application.csproj.AssemblyReference.cache
+C:\Users\T-Gamer\Source\Repos\guilhermes14\DSAEM-at\Assessment\Assessment.Application\obj\Debug\net6.0\Assessment.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Gamer\Source\Repos\guilhermes14\DSAEM-at\Assessment\Assessment.Application\obj\Debug\net6.0\Assessment.Application.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\Source\Repos\guilhermes14\DSAEM-at\Assessment\Assessment.Application\obj\Debug\net6.0\Assessment.Application.AssemblyInfo.cs
+C:\Users\T-Gamer\Source\Repos\guilhermes14\DSAEM-at\Assessment\Assessment.Application\obj\Debug\net6.0\Assessment.Application.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Source\Repos\guilhermes14\DSAEM-at\Assessment\Assessment.Application\obj\Debug\net6.0\Assessment.Application.dll
+C:\Users\T-Gamer\Source\Repos\guilhermes14\DSAEM-at\Assessment\Assessment.Application\obj\Debug\net6.0\refint\Assessment.Application.dll
+C:\Users\T-Gamer\Source\Repos\guilhermes14\DSAEM-at\Assessment\Assessment.Application\obj\Debug\net6.0\Assessment.Application.pdb
+C:\Users\T-Gamer\Source\Repos\guilhermes14\DSAEM-at\Assessment\Assessment.Application\obj\Debug\net6.0\ref\Assessment.Application.dll
