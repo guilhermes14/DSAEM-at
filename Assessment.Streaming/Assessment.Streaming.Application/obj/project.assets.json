@@ -1,0 +1,113 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Assessment.Streaming.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Assessment.Streaming.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Assessment.Streaming.Domain.dll": {}
+        }
+      },
+      "Assessment.Streaming.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Assessment.Streaming.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Assessment.Streaming.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Assessment.Streaming.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assessment.Streaming.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Assessment.Streaming.Domain/Assessment.Streaming.Domain.csproj",
+      "msbuildProject": "../Assessment.Streaming.Domain/Assessment.Streaming.Domain.csproj"
+    },
+    "Assessment.Streaming.Repository/1.0.0": {
+      "type": "project",
+      "path": "../Assessment.Streaming.Repository/Assessment.Streaming.Repository.csproj",
+      "msbuildProject": "../Assessment.Streaming.Repository/Assessment.Streaming.Repository.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Assessment.Streaming.Repository >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\T-Gamer\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\T-Gamer\\Source\\Repos\\guilhermes14\\DSAEM-at\\Assessment.Streaming\\Assessment.Streaming.Application\\Assessment.Streaming.Application.csproj",
+      "projectName": "Assessment.Streaming.Application",
+      "projectPath": "C:\\Users\\T-Gamer\\Source\\Repos\\guilhermes14\\DSAEM-at\\Assessment.Streaming\\Assessment.Streaming.Application\\Assessment.Streaming.Application.csproj",
+      "packagesPath": "C:\\Users\\T-Gamer\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\T-Gamer\\Source\\Repos\\guilhermes14\\DSAEM-at\\Assessment.Streaming\\Assessment.Streaming.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\T-Gamer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\T-Gamer\\Source\\Repos\\guilhermes14\\DSAEM-at\\Assessment.Streaming\\Assessment.Streaming.Repository\\Assessment.Streaming.Repository.csproj": {
+              "projectPath": "C:\\Users\\T-Gamer\\Source\\Repos\\guilhermes14\\DSAEM-at\\Assessment.Streaming\\Assessment.Streaming.Repository\\Assessment.Streaming.Repository.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

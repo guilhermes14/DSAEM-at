@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6xR4v3jORXBcUdYIBbdgr01sIcJ3t1/W7s+UZDlWmEU=",
+  "Source": "Assessment.Streaming.WebApi",
+  "BasePath": "_content/Assessment.Streaming.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

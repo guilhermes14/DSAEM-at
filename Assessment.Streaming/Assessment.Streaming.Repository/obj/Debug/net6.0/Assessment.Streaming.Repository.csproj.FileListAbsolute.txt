@@ -1,0 +1,15 @@
+C:\Users\T-Gamer\Source\Repos\guilhermes14\DSAEM-at\Assessment.Streaming\Assessment.Streaming.Repository\bin\Debug\net6.0\Assessment.Streaming.Repository.deps.json
+C:\Users\T-Gamer\Source\Repos\guilhermes14\DSAEM-at\Assessment.Streaming\Assessment.Streaming.Repository\bin\Debug\net6.0\Assessment.Streaming.Repository.dll
+C:\Users\T-Gamer\Source\Repos\guilhermes14\DSAEM-at\Assessment.Streaming\Assessment.Streaming.Repository\bin\Debug\net6.0\Assessment.Streaming.Repository.pdb
+C:\Users\T-Gamer\Source\Repos\guilhermes14\DSAEM-at\Assessment.Streaming\Assessment.Streaming.Repository\bin\Debug\net6.0\Assessment.Streaming.Domain.dll
+C:\Users\T-Gamer\Source\Repos\guilhermes14\DSAEM-at\Assessment.Streaming\Assessment.Streaming.Repository\bin\Debug\net6.0\Assessment.Streaming.Domain.pdb
+C:\Users\T-Gamer\Source\Repos\guilhermes14\DSAEM-at\Assessment.Streaming\Assessment.Streaming.Repository\obj\Debug\net6.0\Assessment.Streaming.Repository.csproj.AssemblyReference.cache
+C:\Users\T-Gamer\Source\Repos\guilhermes14\DSAEM-at\Assessment.Streaming\Assessment.Streaming.Repository\obj\Debug\net6.0\Assessment.Streaming.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Gamer\Source\Repos\guilhermes14\DSAEM-at\Assessment.Streaming\Assessment.Streaming.Repository\obj\Debug\net6.0\Assessment.Streaming.Repository.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\Source\Repos\guilhermes14\DSAEM-at\Assessment.Streaming\Assessment.Streaming.Repository\obj\Debug\net6.0\Assessment.Streaming.Repository.AssemblyInfo.cs
+C:\Users\T-Gamer\Source\Repos\guilhermes14\DSAEM-at\Assessment.Streaming\Assessment.Streaming.Repository\obj\Debug\net6.0\Assessment.Streaming.Repository.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Source\Repos\guilhermes14\DSAEM-at\Assessment.Streaming\Assessment.Streaming.Repository\obj\Debug\net6.0\Assessment.Streaming.Repository.csproj.CopyComplete
+C:\Users\T-Gamer\Source\Repos\guilhermes14\DSAEM-at\Assessment.Streaming\Assessment.Streaming.Repository\obj\Debug\net6.0\Assessment.Streaming.Repository.dll
+C:\Users\T-Gamer\Source\Repos\guilhermes14\DSAEM-at\Assessment.Streaming\Assessment.Streaming.Repository\obj\Debug\net6.0\refint\Assessment.Streaming.Repository.dll
+C:\Users\T-Gamer\Source\Repos\guilhermes14\DSAEM-at\Assessment.Streaming\Assessment.Streaming.Repository\obj\Debug\net6.0\Assessment.Streaming.Repository.pdb
+C:\Users\T-Gamer\Source\Repos\guilhermes14\DSAEM-at\Assessment.Streaming\Assessment.Streaming.Repository\obj\Debug\net6.0\ref\Assessment.Streaming.Repository.dll

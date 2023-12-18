@@ -1,0 +1,12 @@
+C:\Users\T-Gamer\Source\Repos\guilhermes14\DSAEM-at\Assessment.Streaming\Assessment.Streaming.Domain\bin\Debug\net6.0\Assessment.Streaming.Domain.deps.json
+C:\Users\T-Gamer\Source\Repos\guilhermes14\DSAEM-at\Assessment.Streaming\Assessment.Streaming.Domain\bin\Debug\net6.0\Assessment.Streaming.Domain.dll
+C:\Users\T-Gamer\Source\Repos\guilhermes14\DSAEM-at\Assessment.Streaming\Assessment.Streaming.Domain\bin\Debug\net6.0\Assessment.Streaming.Domain.pdb
+C:\Users\T-Gamer\Source\Repos\guilhermes14\DSAEM-at\Assessment.Streaming\Assessment.Streaming.Domain\obj\Debug\net6.0\Assessment.Streaming.Domain.csproj.AssemblyReference.cache
+C:\Users\T-Gamer\Source\Repos\guilhermes14\DSAEM-at\Assessment.Streaming\Assessment.Streaming.Domain\obj\Debug\net6.0\Assessment.Streaming.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Gamer\Source\Repos\guilhermes14\DSAEM-at\Assessment.Streaming\Assessment.Streaming.Domain\obj\Debug\net6.0\Assessment.Streaming.Domain.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\Source\Repos\guilhermes14\DSAEM-at\Assessment.Streaming\Assessment.Streaming.Domain\obj\Debug\net6.0\Assessment.Streaming.Domain.AssemblyInfo.cs
+C:\Users\T-Gamer\Source\Repos\guilhermes14\DSAEM-at\Assessment.Streaming\Assessment.Streaming.Domain\obj\Debug\net6.0\Assessment.Streaming.Domain.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Source\Repos\guilhermes14\DSAEM-at\Assessment.Streaming\Assessment.Streaming.Domain\obj\Debug\net6.0\Assessment.Streaming.Domain.dll
+C:\Users\T-Gamer\Source\Repos\guilhermes14\DSAEM-at\Assessment.Streaming\Assessment.Streaming.Domain\obj\Debug\net6.0\refint\Assessment.Streaming.Domain.dll
+C:\Users\T-Gamer\Source\Repos\guilhermes14\DSAEM-at\Assessment.Streaming\Assessment.Streaming.Domain\obj\Debug\net6.0\Assessment.Streaming.Domain.pdb
+C:\Users\T-Gamer\Source\Repos\guilhermes14\DSAEM-at\Assessment.Streaming\Assessment.Streaming.Domain\obj\Debug\net6.0\ref\Assessment.Streaming.Domain.dll
