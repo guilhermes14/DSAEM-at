@@ -19,7 +19,7 @@ namespace Assessment.Repository
 
         public async Task<Musica> GetMusica(Guid id)
         {
-            var result = await this.HttpClient.GetAsync($"https://localhost:7192/api/banda/musica/{id}");
+            var result = await this.HttpClient.GetAsync($"https://localhost:7221/api/banda/musica/{id}");
             if (result.IsSuccessStatusCode == false)
                 return null;
 

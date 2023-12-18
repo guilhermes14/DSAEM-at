@@ -1,3 +1,7 @@
+using Assessment.WebApi.ErrorHandling;
+using Microsoft.AspNetCore.Diagnostics;
+using System.Net;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -17,9 +21,32 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
 app.UseAuthorization();
-
 app.MapControllers();
+
+app.UseExceptionHandler(c => c.Run(async context =>
+{
+    var exception = context.Features.Get<IExceptionHandlerPathFeature>()?.Error;
+
+
+    if (exception is Assessment.Core.Exception.ModelsException modelsException)
+    {
+        var errorResponse = new ErrorHandling();
+
+        foreach (var item in modelsException.Errors)
+            errorResponse.Messages.Add(new ErrorMessage() { ErrorName = item.ErrorName, Message = item.ErrorMessage });
+
+        context.Response.StatusCode = (int)HttpStatusCode.UnprocessableEntity;
+        context.Response.ContentType = "application/json";
+        await context.Response.WriteAsJsonAsync(errorResponse);
+    }
+    else
+    {
+        context.Response.StatusCode = (int)HttpStatusCode.InternalServerError;
+        context.Response.ContentType = "application/json";
+        await context.Response.WriteAsJsonAsync(new { Error = exception?.Message });
+    }
+
+}));
 
 app.Run();

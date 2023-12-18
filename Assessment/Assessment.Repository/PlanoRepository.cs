@@ -19,7 +19,7 @@ namespace Assessment.Repository
 
         public async Task<Plano> GetPlano(Guid id)
         {
-            var result = await this.HttpClient.GetAsync($"https://localhost:7192/api/Plano/{id}");
+            var result = await this.HttpClient.GetAsync($"https://localhost:7221/api/Plano/{id}");
             if (result.IsSuccessStatusCode == false)
                 return null;
 
