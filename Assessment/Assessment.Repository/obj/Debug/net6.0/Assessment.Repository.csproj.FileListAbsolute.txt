@@ -10,3 +10,8 @@ C:\Users\T-Gamer\Source\Repos\guilhermes14\DSAEM-at\Assessment\Assessment.Reposi
 C:\Users\T-Gamer\Source\Repos\guilhermes14\DSAEM-at\Assessment\Assessment.Repository\obj\Debug\net6.0\refint\Assessment.Repository.dll
 C:\Users\T-Gamer\Source\Repos\guilhermes14\DSAEM-at\Assessment\Assessment.Repository\obj\Debug\net6.0\Assessment.Repository.pdb
 C:\Users\T-Gamer\Source\Repos\guilhermes14\DSAEM-at\Assessment\Assessment.Repository\obj\Debug\net6.0\ref\Assessment.Repository.dll
+C:\Users\T-Gamer\Source\Repos\guilhermes14\DSAEM-at\Assessment\Assessment.Repository\bin\Debug\net6.0\Assessment.Core.dll
+C:\Users\T-Gamer\Source\Repos\guilhermes14\DSAEM-at\Assessment\Assessment.Repository\bin\Debug\net6.0\Assessment.Domain.dll
+C:\Users\T-Gamer\Source\Repos\guilhermes14\DSAEM-at\Assessment\Assessment.Repository\bin\Debug\net6.0\Assessment.Domain.pdb
+C:\Users\T-Gamer\Source\Repos\guilhermes14\DSAEM-at\Assessment\Assessment.Repository\bin\Debug\net6.0\Assessment.Core.pdb
+C:\Users\T-Gamer\Source\Repos\guilhermes14\DSAEM-at\Assessment\Assessment.Repository\obj\Debug\net6.0\Assessment.Repository.csproj.CopyComplete

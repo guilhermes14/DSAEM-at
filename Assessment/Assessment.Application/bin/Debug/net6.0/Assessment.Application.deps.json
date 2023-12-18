@@ -7,14 +7,54 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "Assessment.Application/1.0.0": {
+        "dependencies": {
+          "Assessment.Domain": "1.0.0",
+          "Assessment.Repository": "1.0.0"
+        },
         "runtime": {
           "Assessment.Application.dll": {}
+        }
+      },
+      "Assessment.Core/1.0.0": {
+        "runtime": {
+          "Assessment.Core.dll": {}
+        }
+      },
+      "Assessment.Domain/1.0.0": {
+        "dependencies": {
+          "Assessment.Core": "1.0.0"
+        },
+        "runtime": {
+          "Assessment.Domain.dll": {}
+        }
+      },
+      "Assessment.Repository/1.0.0": {
+        "dependencies": {
+          "Assessment.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Assessment.Repository.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Assessment.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Assessment.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Assessment.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Assessment.Repository/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
